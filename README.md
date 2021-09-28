@@ -14,9 +14,9 @@
 - [AWAE preparation](https://z-r0crypt.github.io/blog/2020/01/22/oswe/awae-preparation/)
     - desc: AWAE preparation
     - tags: AWAE
-- [AWAE preparation](https://ranakhalil101.medium.com/oswe-prep-hack-the-box-magic-f173e2d09125)
+- [AWAE preparation HTB machine](https://ranakhalil101.medium.com/oswe-prep-hack-the-box-magic-f173e2d09125)
     - desc: Hack The Box Magic AWAE Preparation
     - tags: AWAE HTB 
-- [AWAE preparation](https://klezvirus.github.io/Misc/HTB-VH-OSWE/)
+- [AWAE preparation HTB and Vulnhub](https://klezvirus.github.io/Misc/HTB-VH-OSWE/)
     - desc: AWAE Preparation with HTB and Vulnhub
     - tags: AWAE HTB Vulnhub
