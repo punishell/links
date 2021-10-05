@@ -20,3 +20,10 @@
 - [AWAE preparation HTB and Vulnhub](https://klezvirus.github.io/Misc/HTB-VH-OSWE/)
     - desc: AWAE Preparation with HTB and Vulnhub
     - tags: AWAE HTB Vulnhub
+- [Post AWAE preparation HTB ](https://forum.hackthebox.com/t/oswe-exam-review-2020-notes-gifts-inside/2232)
+    - desc: Post AWAE Preparation with HTB 
+    - tags: AWAE HTB 
+
+- [AWAE preparation](https://z-r0crypt.github.io/blog/2020/01/22/oswe/awae-preparation/)
+    - desc: AWAE Preparation 
+    - tags: AWAE  
